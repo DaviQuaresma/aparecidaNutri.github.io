@@ -1,5 +1,5 @@
 # aparecidaNutri
-Desenvolvido para controle de pacientes e seus dados, podendo adicionar, deletar e filtrar na lista.
+Desenvolvido para controle de pacientes e seus dados, podendo adicionar, deletar e filtrar na tabela.
 
 Funcionalidade de calcular o IMC e jogar na tabela automaticamente após a entrada de dados do paciente.
 
